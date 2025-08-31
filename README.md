@@ -1,4 +1,6 @@
 # 🚖 Tripzzy – Ride Booking Application  
+Live Website 🚗:https://tripzzyride.web.app/
+
 
 Tripzzy is a **ride-booking platform** inspired by apps like Uber/Ola.  
 It connects **users** who want rides with **captains** who drive vehicles.  
@@ -63,6 +65,7 @@ cd Backend
 npm install
 npm start
 ```
+
 
 
 
